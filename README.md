@@ -3,7 +3,7 @@ Repository für das CIA Coding Dojo
 
 ## Die Weihnachts AG 
 Die Weihnachts AG hat mitbekommen, dass Automatisierung angeblich ziemlich cool ist. Darum wünscht sie sich Pipelines für ihre Java-Weihnachtssoftware.
-Dummerweise ist das ganze Budget für Geschenke aufgebraucht worden. Es gibt lediglich ein ganz kleiner Linux Server, auf dem kein weiteres Tool installiert werden kann.
+Dummerweise ist das ganze Budget für Geschenke aufgebraucht worden. Es gibt lediglich einen ganz kleinen Linux Server, auf dem kein weiteres Tool installiert werden kann.
 Daher müssen statt Jenkins, Azure oder Gitlab und co. normale Shell Skripte verwendet werden.
 
 
